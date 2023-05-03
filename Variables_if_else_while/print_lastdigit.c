@@ -32,3 +32,9 @@ int main(void)
 	printf("\n");
 	return (0);
 }
+/**
+ *you can determine the last digit of a number
+ *by using the modulo
+ *so the number %10 will give you the last digit of the number
+ *rememebr modulo is used to get the remainder when a number is divided by another number
+ */
